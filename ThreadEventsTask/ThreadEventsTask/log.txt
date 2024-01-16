@@ -1,0 +1,186 @@
+level 2
+id: 1
+date: 17.01.2024
+time: 01:52:25
+first value: -36
+second value: -19
+third value: 23
+
+level 2
+id: 2
+date: 17.01.2024
+time: 01:52:30
+first value: 46
+second value: 8
+third value: -47
+
+level 2
+id: 3
+date: 17.01.2024
+time: 01:52:35
+first value: -22
+second value: 11
+third value: 21
+
+level 2
+id: 4
+date: 17.01.2024
+time: 01:52:40
+first value: 42
+second value: -34
+third value: -23
+
+level 2
+id: 1
+date: 17.01.2024
+time: 01:53:13
+first value: -4
+second value: 49
+third value: 9
+
+level 2
+id: 2
+date: 17.01.2024
+time: 01:53:18
+first value: -37
+second value: 2
+third value: 36
+
+level 2
+id: 3
+date: 17.01.2024
+time: 01:53:23
+first value: -41
+second value: 0
+third value: -50
+
+level 2
+id: 4
+date: 17.01.2024
+time: 01:53:28
+first value: 21
+second value: -50
+third value: -32
+
+level 2
+id: 5
+date: 17.01.2024
+time: 01:53:33
+first value: 33
+second value: -33
+third value: -23
+
+level 2
+id: 6
+date: 17.01.2024
+time: 01:53:35
+first value: -8
+second value: 11
+third value: -37
+
+level 2
+id: 7
+date: 17.01.2024
+time: 01:53:36
+first value: 3
+second value: 38
+third value: 30
+
+level 2
+id: 8
+date: 17.01.2024
+time: 01:53:37
+first value: 25
+second value: -33
+third value: 31
+
+level 2
+id: 9
+date: 17.01.2024
+time: 01:53:38
+first value: -29
+second value: -33
+third value: -16
+
+level 2
+id: 10
+date: 17.01.2024
+time: 01:53:39
+first value: -3
+second value: 26
+third value: 49
+
+level 2
+id: 11
+date: 17.01.2024
+time: 01:53:40
+first value: -3
+second value: 1
+third value: -27
+
+level 2
+id: 12
+date: 17.01.2024
+time: 01:53:41
+first value: 1
+second value: 25
+third value: 16
+
+level 2
+id: 13
+date: 17.01.2024
+time: 01:53:42
+first value: -3
+second value: 5
+third value: -28
+
+level 2
+id: 14
+date: 17.01.2024
+time: 01:53:43
+first value: 5
+second value: -45
+third value: 25
+
+level 2
+id: 15
+date: 17.01.2024
+time: 01:53:44
+first value: 25
+second value: 48
+third value: -17
+
+level 2
+id: 16
+date: 17.01.2024
+time: 01:53:46
+first value: -41
+second value: 17
+third value: -40
+
+level 2
+id: 17
+date: 17.01.2024
+time: 01:53:49
+first value: 29
+second value: -47
+third value: -18
+
+level 1
+id: 18
+date: 17.01.2024
+time: 01:54:10
+first value: 37
+
+level 1
+id: 19
+date: 17.01.2024
+time: 01:54:14
+first value: -10
+
+level 1
+id: 20
+date: 17.01.2024
+time: 01:54:18
+first value: 12
+
